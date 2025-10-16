@@ -1,7 +1,5 @@
-# Ular Tangga Kuis
+# Game Ular Tangga Kuis
 
-## 📱 Download APK
+## Game ini dirancang sebagai media pembelajaran interaktif yang menggabungkan konsep permainan klasik ular tangga dengan elemen kuis edukatif. Melalui permainan ini, pemain dapat belajar sambil bermain dengan menjawab pertanyaan sesuai tema yang dipilih. Sistem permainan mendorong pemain untuk berpikir cepat dan tepat, sekaligus menjadikan proses belajar lebih menyenangkan, interaktif, dan menantang.
 
-Coba mainkan game **Ular Tangga Kuis** di Android dengan klik link di bawah ini:  
-
-[⬇️ Download APK](https://github.com/RF10111/Ular-Tangga-Kuis/raw/main/UlarTanggaKuis.apk)
+## Link Download: https://rf1012.itch.io/ular-tangga-kuis
